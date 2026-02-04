@@ -21,7 +21,7 @@ This project is an interactive Excel dashboard built to analyze coffee sales per
 - dashboard.png – Dashboard preview
 
 ## Dashboard Preview
-![Dashboard Preview](Coffee Sales Dashboard.png)
+![Dashboard Preview](Coffee%20Sales%20Dashboard.png)
 
 ## How to Use
 1. Download the Excel file.
